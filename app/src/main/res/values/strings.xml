@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="text_of_fragment_bottom">Text of fragment bottom</string>
+    <string name="Text_of_fragment_b">Texto en Fragment B</string>
+    <string name="Write_here">Escribe una palabra aqui</string>
+    <string name="Click_here">Click Here</string>
+</resources>
